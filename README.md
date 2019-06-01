@@ -1,2 +1,3 @@
 # MEAN-CRUD
-mean stack crud app
+A full MeanStack app
+
